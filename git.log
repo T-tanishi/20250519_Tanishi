@@ -1,0 +1,36 @@
+commit 21975a164acaaf47b3d0e60a1c75a01f62fc8a81
+Merge: 51d7e42 437638c
+Author: Daichi Tanaka <241205110@ccmilg.meijo-u.ac.jp>
+Date:   Mon May 19 14:35:45 2025 +0900
+
+    Merge branch 'main' of https://github.com/T-tanishi/20250519_Tanishi
+
+commit 51d7e424df9bdd4f6afe88361a92c2a37e407912
+Author: Daichi Tanaka <241205110@ccmilg.meijo-u.ac.jp>
+Date:   Mon May 19 14:25:37 2025 +0900
+
+    skyブルー
+
+commit 437638c46e10a367d427b152b51064b675055956
+Author: T-tanishi <241205110@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 14:18:30 2025 +0900
+
+    色変えた
+
+commit b03c3b265e6f4692fd29f22731d6ab3666a3a3fb
+Author: Daichi Tanaka <241205110@ccmilg.meijo-u.ac.jp>
+Date:   Mon May 19 14:12:47 2025 +0900
+
+    落下速度の変更
+
+commit 7cc87f57e49907005b0d33596fd3e52f77b221b9
+Author: Daichi Tanaka <241205110@ccmilg.meijo-u.ac.jp>
+Date:   Mon May 19 14:07:17 2025 +0900
+
+    sミノの色変更
+
+commit 3a1d9122fa057e3f7652f6572211ac4e5e98a0ed
+Author: Daichi Tanaka <241205110@ccmilg.meijo-u.ac.jp>
+Date:   Mon May 19 13:44:52 2025 +0900
+
+    canvas-tetlisのソースコードをインポート
